@@ -1,0 +1,19 @@
+{
+  "name": "prisma-orderby-bug",
+  "version": "1.0.0",
+  "description": "prisma orderby bug",
+  "source": "app.ts",
+  "main": "./dist/app.js",
+  "scripts": {
+    "watch": "parcel watch",
+    "build": "parcel build",
+    "start": "node ./dist/app.js"
+  },
+  "dependencies": {
+    "@prisma/client": "^3.3.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.0.0",
+    "prisma": "^3.3.0"
+  }
+}

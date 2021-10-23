@@ -1,0 +1,8 @@
+.DS_Store
+node_modules
+yarn-error.log
+dist
+lerna-debug.log
+.vscode
+.idea
+storybook-static
